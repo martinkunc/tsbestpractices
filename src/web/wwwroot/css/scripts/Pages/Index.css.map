@@ -1,0 +1,1 @@
+{"version":3,"file":"../css/scripts\\Pages\\Index.css","mappings":";;;AAAA;IACI,UAAU;IACV;AACJ","sources":["webpack:///./scripts/Pages/index.css"],"sourcesContent":["#msg {\r\n    color:blue;\r\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif\r\n}\r\n"],"names":[],"sourceRoot":""}
